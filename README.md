@@ -85,7 +85,7 @@
 ---
 
 ### Java_Practices:
-- **Stay Tuned...**
+- 'Stay Tuned...'
 
 ---
 
